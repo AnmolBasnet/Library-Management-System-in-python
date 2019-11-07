@@ -1,0 +1,9 @@
+S.N: 4
+Full Name: John Lenon
+Name of the Book required: Anna Karenina
+Author of the book: Leo Tolstoy
+quant borrowed: 4
+Price: $5 per unit
+Total Price: $20.0
+Date: 2019-01-18
+Time: 08:31:08

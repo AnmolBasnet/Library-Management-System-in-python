@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,27,$2
+Start With Why,Simon Sinek,10,$1.5
+Program Python,John Smith,20,$1.5
+Anna Karenina,Leo Tolstoy,8,$5
+Madame Bovary,Gustave Flau,18,$14
+Middlemarch,George Eliot,27,$15
+Moby-Dick,Herman Melville,24,$34
+Great Expects,Charles Dickens,12,$18
+SherlockHolmes,Conon Doyle,23,$50
+An Obsession,Anne Frank,34,$45
